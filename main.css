@@ -1,0 +1,63 @@
+
+.main-container{
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    font-family: Geneva, Verdana, sans-serif;
+  
+}
+.container-1{
+    height: 400px;
+    width: 550px;
+    background-color: rgb(245, 13, 13);
+    margin-left: 30%;
+    
+   
+    
+   
+}
+.container-2{
+    height: 200px;
+    width: 550px;
+    background-color: white;
+}
+.container-3{
+    height: 200px;
+    width: 550px;
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+   
+}
+.container-4{
+    height: 200px;
+    width: 275px;
+    background-color: rgb(17, 100, 127);
+   
+  
+}
+
+.container-5{
+    height: 200px;
+    width: 275px;
+    background-color:rgb(83, 181, 213);
+   
+}
+
+.h2{
+    color: rgb(24, 230, 230);
+   
+}
+.h3{
+    color: rgb(121, 233, 30);
+}
+.text-1{
+    color: rgb(172, 172, 186);
+}
+.sign-up{
+    color:white;
+    padding: 10px 20px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
